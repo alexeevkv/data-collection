@@ -120,7 +120,7 @@ start >> process_data_task >> end
  И сам даг в airflow 
  ![sales_revenue dag](./resources/sales_revenue.png)
 
- 3. Результаты лежат по [пути](lab_3\DCCAS\business_case_umbrella\dags\data\revenue_per_store.csv)
+ 3. Результаты лежат по [пути](DCCAS/business_case_umbrella/dags/data/revenue_per_store.csv)
 
  4. Убиваем контейнеры и завершаем работу.
  ![cleanup](./resources/cleanup.png)
